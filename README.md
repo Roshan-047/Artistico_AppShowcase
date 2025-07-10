@@ -16,6 +16,14 @@
 
 - **📁 Portfolio Creation:** Build and present your portfolio within the app, showcasing your best work in a visually stunning layout.
 
+## ✨ <strong>My Contribution</strong>
+
+- **UI / UX lead :** I Designed and developed UI / UX for this App, i went through design thinking, did research on target users, and the came up with UX of this app, and then i polished it's UI following Apple's HIG ( Human Interface Guidelines )
+  
+- **Handled Development of Challenges Tab:** Challenges tab give artists raw ideas, on which they can imagine and create something new, this will allow them to expand their vision, even if they don't participate then can always watch what other's made and get inspired from their imagination. This tab has a custom timer view which resets every monday. Then user can submit their artwork and after current challenge ends, they can see eachother's submissions in previous challenges sections. Also the top 3 submissions with most likes will be featured as banner of that particular week.
+
+- **Designed Database Schema:** I have desgined whole Firebase Realtime Database structure, with all relationships with each entity and implemented it.
+  
 ## 📱 <strong>App Flow and Screens</strong>
 
 ### 1. <strong>Explore Tab</strong>
@@ -50,23 +58,7 @@
   </table>
 </div>
 
-### 3. <strong>Search Tab</strong>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <p align="left">
-          The <strong>Search</strong> tab is designed for discovery, offering users an intuitive way to explore the vast content available within Artistico. Whether users are looking for specific artists, communities, or types of artwork, the search tab provides a powerful tool to find exactly what they need. The interface is segmented into sections like <em>Suggested Communities</em> and <em>Based on Your Artwork</em>, which offer personalized recommendations tailored to each user's preferences and past activities. This feature enhances the user experience by making it easier to connect with relevant content and artists, ensuring that users can continuously find new inspiration and expand their artistic horizons.
-        </p>
-      </td>
-      <td width="50%">
-        <img src="./Artistico_Stuff/Search_Page.png" width="350" height="760" alt="Search Tab">
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 4. <strong>Challenges Tab</strong>
+### 3. <strong>Challenges Tab</strong>
 <div align="center">
   <table>
     <tr>
@@ -82,7 +74,7 @@
   </table>
 </div>
 
-### 5. <strong>Profile Tab</strong>
+### 4. <strong>Profile Tab</strong>
 <div align="center">
   <table>
     <tr>
@@ -131,7 +123,8 @@ This project was developed under the mentorship of the <strong>iOS Application D
 
 ## 📅 <strong>Availability</strong>
 
-<strong>Artistico</strong> will be available on the App Store very soon. Stay tuned for updates!
+<strong>Artistico</strong> is now available on Appstore, <a href="https://apps.apple.com/in/app/artistica/id6743148382">Click Here</a>
+ to download it now!
 
 ## 📜 **License**
 
